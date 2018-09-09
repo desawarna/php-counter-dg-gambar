@@ -34,11 +34,12 @@ for ($i=0;$i<$panjang;$i++)
 </body>
 </html>
 ``` 
-4. Buat file *counter.txt* pertama kali script ini hanya berisi angka 1 , nanti nya setiap browser direload isi file akan berganti aritmetik dari 1 , 2 ,3 dst
+4. Buat folder dan file gambar pada folder **angka** , dalam nya ada gambar angka **0.jpg , 1.jpg , 2.jpg , 3.jpg** sampai **9.jpg**
+5. Buat file *counter.txt* pertama kali script ini hanya berisi angka 1 , nanti nya setiap browser direload isi file akan berganti aritmetik dari 1 , 2 ,3 dst
 ```
 1
 ```
-4. Coba run di browser pada urlbar ketik `localhost/php-counter-dg-gambar`
+6. Coba run di browser pada urlbar ketik `localhost/php-counter-dg-gambar`
 ![PHP Counter Dengan Gambar](img/php-counter-dg-gambar.jpg)
-5. Coba reload browser maka akan berganti 2 , reload lagi maka akan berganti 3 , dst
+7. Coba reload browser maka akan berganti 2 , reload lagi maka akan berganti 3 , dst
 ![PHP Counter Dengan Gambar](img/php-counter-dg-gambar-2.jpg)
